@@ -1,4 +1,4 @@
-public class printfunc{
+public class output{
     public static void main(String args[]) {
         //output
 
