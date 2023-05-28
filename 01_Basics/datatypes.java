@@ -18,5 +18,12 @@ public class datatypes{
         System.out.print("My age is:");
         System.out.print(age);
         System.out.println(ans);
+        //Question 1 
+        //Declare variables of suitable datatype
+        int age = 20;
+        float year= age;
+        String name= "Ayan";
+        System.out.println(name);
+        System.out.println(year);
     }
 }
